@@ -37,7 +37,7 @@ Seperti pepatah “Waktu adalah uang”, tentunya waktu adalah salah satu kompon
 | Demand for Agility | The best way to do this is to perform an agile “readiness” assessment, which involves assessing existing processes, resources, and skills, and identifying any gaps. This assessment can easily become a project itself and can involve calculating the time, resources, budget, and effort required for proper agile implementation. |
 
 ### Project Reference
-Dataset : [Fintech Data DEMO - Google Drive](https://drive.google.com/drive/folders/1r6wfAKFYVPlCrFYSMVESPYHpisrUs2Jm).__
-Jurnal / other references : __
-[【ML Project】Bank Telemarketing Analysis | Kaggle](https://www.kaggle.com/code/yufengsui/ml-project-bank-telemarketing-analysis)__
-[Marketing Campaign - Overview, Components, Examples (corporatefinanceinstitute.com)](https://corporatefinanceinstitute.com/resources/knowledge/other/marketing-campaign/)__
+Dataset : [Fintech Data DEMO - Google Drive](https://drive.google.com/drive/folders/1r6wfAKFYVPlCrFYSMVESPYHpisrUs2Jm).\
+Jurnal / other references : \
+[【ML Project】Bank Telemarketing Analysis | Kaggle](https://www.kaggle.com/code/yufengsui/ml-project-bank-telemarketing-analysis)\
+[Marketing Campaign - Overview, Components, Examples (corporatefinanceinstitute.com)](https://corporatefinanceinstitute.com/resources/knowledge/other/marketing-campaign/)\
