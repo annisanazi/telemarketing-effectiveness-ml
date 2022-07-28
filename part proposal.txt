@@ -1,0 +1,30 @@
+Project Scope & Deliverables:
+
+a. Tujuan project :
+    Mengembangkan aplikasi Machine learning yang akan digunakan untuk membantu mengoptimalisasi marketing pemasaran dalam menentukan target customer yang sesuai.
+b. Pembagian project:
+  ·        Pembuatan EDA dan Modelling : 2 orang
+  ·        Pembuatan powerpoint : 2 orang
+  ·        Pembuatan github & dokumentasi : 1 orang
+  ·        Pembuatan video : dilakukan oleh semua anggota yang terlibat
+c. Linimasa Project :
+  ·        14 Juli – 16 Juli : Pembuatan & Pengumpulan Proposal
+  ·        16 Juli – 21 Juli : Pembuatan EDA dan Modelling
+  ·        20 Juli – 24 Juli : Pembuatan Power Point
+  ·        24 Juli – 29 Juli : Pembuatan dokumentasi, github dan video presentasi
+d. In Scope project :
+  ·        EDA dan Modelling :
+        o   Preprocessing data (Cleaning data, transformation, feature extraction)
+        o   Modelling & Fitting
+        o   Prediction
+  ·        Prediksi target pemasaran berdasarkan age,job,marital,education,housing,loan.
+  ·        Powerpoint :
+        o   Penjelasan mengenai dataset
+        o   Penjelasan mengenai EDA dan Modelling
+        o   Hasil mengenai penelitian yang telah dilakukan
+  ·        Video presentasi akan dilakukan menggunakan zoom
+e. Out Scope Project :
+  ·        Prediksi target pemasaran menggunakan jenis kategori data yang berbeda
+f. Hasil Project :
+  ·   Model Machine Learning yang dapat digunakan untuk memprediksi target pemasaran
+  .   Video presentasi project
